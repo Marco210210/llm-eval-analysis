@@ -67,9 +67,9 @@ All located inside `docs/`.
 
 ## 👥 Contributors
 
-- Giovanni Arcangeli
-- [Vittorio Ciancio](https://github.com/VittorioCiancio)
-- [Marco Di Maio](https://github.com/Marco210210)
+- Arcangeli Giovanni
+- [Ciancio Vittorio](https://github.com/VittorioCiancio)
+- Marco Di Maio
 
 Project presented for the Artificial Intelligence course – University of Salerno (2025)
 
