@@ -75,8 +75,11 @@ Project presented for the Artificial Intelligence course – University of Saler
 
 ---
 
-## ✨ Notes
+## 📄 License
 
-This project demonstrates the limitations and potential of automatic dialogue evaluation. It highlights the differences between LLM generations and emphasizes the influence of dataset structure on evaluation performance.
+This project is licensed under the [CC BY-NC-SA 4.0 License](https://creativecommons.org/licenses/by-nc-sa/4.0/)  
+[![License: CC BY-NC-SA 4.0](https://licensebuttons.net/l/by-nc-sa/4.0/88x31.png)](https://creativecommons.org/licenses/by-nc-sa/4.0/)  
 
-For questions, feel free to contact the authors or open an issue on GitHub.
+You may share and adapt this work for non-commercial purposes only, **as long as you give appropriate credit** and **distribute your contributions under the same license**.  
+For commercial use, **explicit permission from the authors is required**.
+
