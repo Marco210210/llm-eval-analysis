@@ -56,10 +56,10 @@ LLM-Eval/
 
 ## 📄 Documentation
 
-- 📘 `Relazione LLM-Eval.pdf` – Full project report
-- 📰 `Articolo.pdf` – Original paper on LLM-Eval
-- 📊 `Presentazione LLM.pptx` – Slide deck
-- 📝 `Traccia.pdf` – Project guidelines
+- 📘 [LLM-Eval_Report.pdf](docs/LLM-Eval_Report.pdf) – Full project report  
+- 📰 [LLM-Eval_Paper.pdf](docs/LLM-Eval_Paper.pdf) – Original paper on LLM-Eval  
+- 📊 [LLM-Eval_Presentation.pptx](docs/LLM-Eval_Presentation.pptx) – Slide deck  
+- 📝 [LLM-Eval_Guidelines.pdf](docs/LLM-Eval_Guidelines.pdf) – Project guidelines
 
 All located inside `docs/`.
 
